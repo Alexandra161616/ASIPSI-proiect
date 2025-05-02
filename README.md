@@ -1,2 +1,2 @@
 # ASIPSI-Lab1-Limonada-web
-Facem o aplicatie pentru un stand de limonada
+Aici voi atasa fisierele pentru proiectul la asipsi
