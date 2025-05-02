@@ -1,2 +1,3 @@
-# ASIPSI-Lab1-Limonada-web
+# ASIPSI-Cirjan-Alexandra-project
+
 Aici voi atasa fisierele pentru proiectul la asipsi
